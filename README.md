@@ -46,7 +46,7 @@ A **React app** featuring two AI-powered tools that communicate with a [Rust Act
 ### 4. Access the App
     Development: http://localhost:3000
 
-### Production: 
+### Production: https://paraphrasing-frontend.vercel.app/
 
 ## 🗺️ Project Structure
     src/
